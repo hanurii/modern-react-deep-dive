@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=N7qlk_GQRJU
         - 서비스 규모가 커지고 복잡해질수록 최적화 작업에 한계가 있음
         - 이 모든 것을 자동화하여 지원해주고 있는 것이 리액트 렌더링 프로세스
 
-![2024-01-06_08-19-02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ecc1c120-25ef-46f9-b5a6-0b88d91914fc/366b010e-0e84-4c9a-a98e-072d1c0c7326/2024-01-06_08-19-02.png)
+<img width="704" alt="2024-01-06_08-19-02" src="https://github.com/hanurii/modern-react-deep-dive/assets/38041572/a5f7d4ce-40f7-4f93-af2c-88ac9c255804">
 
 1. 리액트의 렌더링
     - Render Phase와 Commit Phase
@@ -74,7 +74,8 @@ https://www.youtube.com/watch?v=N7qlk_GQRJU
                     - 리액트 엘리먼트 트리를 재귀적으로 순회하면서 이전 트리와 현재 트리의 변경사항을 비교한다음 변경된 부분만 실제 DOM에 반영하는 작업
             - Commit Phase
                 - Virtual DOM → Actual DOM → CRP
-        ![2024-01-06_08-19-27.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ecc1c120-25ef-46f9-b5a6-0b88d91914fc/eb03f9f8-c993-4019-b863-c5e58b4e1124/2024-01-06_08-19-27.png)
+        
+<img width="743" alt="2024-01-06_08-19-27" src="https://github.com/hanurii/modern-react-deep-dive/assets/38041572/ebff8596-09f6-4402-b893-6c77940fcb2c">
 
 ### 리액트 렌더링의 개념을 알 수 있다
 
